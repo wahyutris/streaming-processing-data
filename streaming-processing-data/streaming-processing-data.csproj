@@ -39,6 +39,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="GameResult.cs" />
     <Compile Include="Player.cs" />
+    <Compile Include="NewsSearch.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="data.txt">
